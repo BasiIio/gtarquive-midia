@@ -61,7 +61,7 @@ function slideHtml(d, ctx, n, total) {
 ${palma(true, 880)}${palma(false, 880)}
 <div class="wrap" style="align-items:center;text-align:center">
 <div style="margin-top:60px">${FOLDER_BIG}</div>
-<div style="margin-top:50px;font-style:italic;font-weight:900;font-size:132px;line-height:.98;letter-spacing:-.03em;color:#F4EFE4;text-shadow:0 6px 0 rgba(18,7,38,.5)">Siga o <span style="color:#FFB347">@gtarchived</span></div>
+<div style="margin-top:50px;font-style:italic;font-weight:900;font-size:132px;line-height:.98;letter-spacing:-.03em;color:#F4EFE4;text-shadow:0 6px 0 rgba(18,7,38,.5)">Siga o <span style="color:#FFB347">GTArchived</span></div>
 <div style="margin-top:34px;font-weight:600;font-size:42px;line-height:1.3;color:#F4EFE4;max-width:780px;text-shadow:0 3px 0 rgba(18,7,38,.6)">Tudo de GTA 6, com status e fonte. Rumor sempre avisado como rumor.</div>
 <div style="margin-top:50px;background:#FF3E9A;color:#1A0B2E;font-size:36px;letter-spacing:.1em;padding:20px 54px;border-radius:999px" class="mono">SEGUIR</div>
 </div>`, n, total, true);

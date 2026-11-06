@@ -106,7 +106,7 @@ ${head}
   }
   return `<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">${base}</head><body>
 <div class="bg"></div><div class="glow"></div>${PALM}${SKYLINE}${body}
-<div class="handle mono">@gtarchived</div></body></html>`;
+<div class="handle mono">GTARCHIVED</div></body></html>`;
 }
 
 (async () => {
