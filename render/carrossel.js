@@ -51,7 +51,7 @@ body{margin:0;width:1080px;height:1350px;overflow:hidden;font-family:Archivo,san
 </style></head><body><div class="bg"></div><div class="glow"></div>${inner}</body></html>`;
 }
 
-const topo = (n, total) => `<div class="top"><div style="display:flex;align-items:center;gap:20px">${FOLDER}<div class="wm">GT<b>A</b>rchive</div></div><div class="mono" style="font-size:28px;letter-spacing:.12em;color:#C9B8E8">${n} / ${total}</div></div>`;
+const topo = (n, total) => `<div class="top"><div style="display:flex;align-items:center;gap:20px">${FOLDER}<div class="wm">GT<b>A</b>rchived</div></div><div class="mono" style="font-size:28px;letter-spacing:.12em;color:#C9B8E8">${n} / ${total}</div></div>`;
 
 function slideHtml(d, ctx, n, total) {
   const { selo, tema, cor } = ctx;
@@ -61,7 +61,7 @@ function slideHtml(d, ctx, n, total) {
 ${palma(true, 880)}${palma(false, 880)}
 <div class="wrap" style="align-items:center;text-align:center">
 <div style="margin-top:60px">${FOLDER_BIG}</div>
-<div style="margin-top:50px;font-style:italic;font-weight:900;font-size:132px;line-height:.98;letter-spacing:-.03em;color:#F4EFE4;text-shadow:0 6px 0 rgba(18,7,38,.5)">Siga o <span style="color:#FFB347">@gtarchive</span></div>
+<div style="margin-top:50px;font-style:italic;font-weight:900;font-size:132px;line-height:.98;letter-spacing:-.03em;color:#F4EFE4;text-shadow:0 6px 0 rgba(18,7,38,.5)">Siga o <span style="color:#FFB347">@gtarchived</span></div>
 <div style="margin-top:34px;font-weight:600;font-size:42px;line-height:1.3;color:#F4EFE4;max-width:780px;text-shadow:0 3px 0 rgba(18,7,38,.6)">Tudo de GTA 6, com status e fonte. Rumor sempre avisado como rumor.</div>
 <div style="margin-top:50px;background:#FF3E9A;color:#1A0B2E;font-size:36px;letter-spacing:.1em;padding:20px 54px;border-radius:999px" class="mono">SEGUIR</div>
 </div>`, n, total, true);
