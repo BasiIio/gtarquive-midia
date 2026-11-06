@@ -1,0 +1,388 @@
+[
+ {
+  "id": "p1-orcamento",
+  "hora": "16:00",
+  "selo": "IMPRENSA",
+  "tema": "Orçamento",
+  "slides": [
+   {
+    "tipo": "capa",
+    "icone": "moedas",
+    "gancho": "1 BILHÃO DE DÓLARES. SÓ PRA FAZER UM JOGO.",
+    "sub": "É a estimativa de analistas para o custo de GTA 6. A Rockstar não confirma.",
+    "fs": 118
+   },
+   {
+    "tipo": "dado",
+    "icone": "moedas",
+    "numero": "US$ 1–1,5 bi",
+    "fs": 170,
+    "legenda": "estimativa de analistas",
+    "texto": "A Rockstar contesta valores acima de US$ 1,5 bi, mas não diz o custo real. O CEO da Take-Two só admitiu que o jogo \"foi caro\".",
+    "fonte": "Bloomberg via Critical Hits · Pulse"
+   },
+   {
+    "tipo": "dado",
+    "icone": "disco",
+    "numero": "18,8 mi",
+    "fs": 200,
+    "legenda": "cópias a US$ 79,99 para somar US$ 1,5 bi",
+    "texto": "Só a receita bruta de vendas já precisaria dessa quantidade para igualar o teto da estimativa. O GTA V vendeu 11,2 mi no 1º dia.",
+    "fonte": "Conta do GTArquive · Guinness"
+   }
+  ],
+  "legenda": "[IMPRENSA] GTA 6 custou US$ 1 a 1,5 bilhão? É a estimativa de analistas. A Rockstar contesta valores acima de US$ 1,5 bi e não revela o custo real. Fontes: Critical Hits (via Bloomberg) e Pulse. A conta das 18,8 milhões de cópias é nossa: US$ 1,5 bi ÷ US$ 79,99.\n\n#GTA6 #GTAVI #RockstarGames #Gaming #GTArquive"
+ },
+ {
+  "id": "p2-recordes",
+  "hora": "17:00",
+  "selo": "OFICIAL",
+  "tema": "Recordes",
+  "slides": [
+   {
+    "tipo": "capa",
+    "icone": "trofeu",
+    "gancho": "800 MILHÕES EM 1 DIA. GTA 6 VAI BATER?",
+    "sub": "Os recordes de vendas que a própria Rockstar já tem para superar.",
+    "fs": 118
+   },
+   {
+    "tipo": "barras",
+    "titulo": "Quanto cada lançamento fez",
+    "itens": [
+     {
+      "label": "GTA V · 24 horas (2013)",
+      "valor": 800,
+      "rotulo": "US$ 800 mi"
+     },
+     {
+      "label": "GTA V · 3 dias (2013)",
+      "valor": 1000,
+      "rotulo": "US$ 1 bi",
+      "destaque": true
+     },
+     {
+      "label": "Red Dead 2 · 3 dias (2018)",
+      "valor": 725,
+      "rotulo": "US$ 725 mi"
+     }
+    ],
+    "texto": "Os dois são da própria Rockstar. O GTA V levou o título de maior lançamento de entretenimento.",
+    "fonte": "Take-Two · Game Informer · Shacknews"
+   },
+   {
+    "tipo": "dado",
+    "icone": "disco",
+    "numero": "11,2 mi",
+    "fs": 200,
+    "legenda": "cópias do GTA V no primeiro dia",
+    "texto": "Número reconhecido pelo Guinness World Records. É o piso que GTA 6 precisa superar.",
+    "fonte": "Guinness via GameSpot"
+   }
+  ],
+  "legenda": "[OFICIAL] Os recordes de lançamento da Rockstar: GTA V fez US$ 800 milhões em 24 horas e US$ 1 bilhão em 3 dias (2013). Red Dead Redemption 2 fez US$ 725 milhões em 3 dias (2018). O Guinness reconheceu 11,2 milhões de cópias do GTA V no primeiro dia. Fontes: Game Informer, GameSpot, Shacknews.\n\n#GTA6 #GTAVI #GTAV #RedDead2 #GTArquive"
+ },
+ {
+  "id": "p3-preVenda",
+  "hora": "18:00",
+  "selo": "IMPRENSA",
+  "tema": "Pré-venda",
+  "slides": [
+   {
+    "tipo": "capa",
+    "icone": "grafico",
+    "gancho": "6,4 MILHÕES JÁ COMPRARAM SEM JOGAR NADA.",
+    "sub": "Estimativa da Sensor Tower para a pré-venda de GTA 6, divulgada em 20/10.",
+    "fs": 118
+   },
+   {
+    "tipo": "barras",
+    "titulo": "Quem mais comprou antes",
+    "itens": [
+     {
+      "label": "PS5 · 4,8 mi de cópias",
+      "valor": 468,
+      "rotulo": "US$ 468 mi",
+      "destaque": true
+     },
+     {
+      "label": "Xbox Series · 1,66 mi",
+      "valor": 162,
+      "rotulo": "US$ 162 mi"
+     }
+    ],
+    "texto": "O PS5 concentra 74% do valor da pré-venda. O PC não aparece, porque não foi anunciado.",
+    "fonte": "Sensor Tower via Einerd (20/10)"
+   },
+   {
+    "tipo": "barras",
+    "titulo": "Pré-venda × 1º dia do GTA V",
+    "itens": [
+     {
+      "label": "GTA 6 · pré-venda",
+      "valor": 630,
+      "rotulo": "US$ 630 mi",
+      "destaque": true
+     },
+     {
+      "label": "GTA V · 1º dia",
+      "valor": 800,
+      "rotulo": "US$ 800 mi"
+     }
+    ],
+    "texto": "A pré-venda estimada já equivale a 79% do que o GTA V fez no primeiro dia. Ainda são estimativas: Rockstar e Take-Two não divulgaram números.",
+    "fonte": "Sensor Tower · Take-Two"
+   }
+  ],
+  "legenda": "[IMPRENSA] Pré-venda de GTA 6: a Sensor Tower estima US$ 630 milhões e 6,45 milhões de cópias (PS5 e Xbox, sem PC). É estimativa, a Rockstar e a Take-Two não divulgaram números. Comparação: 79% do primeiro dia do GTA V (US$ 800 mi). Fonte: Einerd, levantamento de 20/10/2026.\n\n#GTA6 #GTAVI #Preorder #Gaming #GTArquive"
+ },
+ {
+  "id": "p4-rumor39",
+  "hora": "19:00",
+  "selo": "RUMOR",
+  "tema": "Pré-venda",
+  "slides": [
+   {
+    "tipo": "capa",
+    "icone": "alerta",
+    "gancho": "39 MILHÕES EM 24H? NINGUÉM CONFIRMOU.",
+    "sub": "O número viralizou nas redes. Veja por que ele não se sustenta.",
+    "fs": 118
+   },
+   {
+    "tipo": "dado",
+    "icone": "alerta",
+    "numero": "39 mi",
+    "fs": 220,
+    "legenda": "cópias em 24h, segundo posts anônimos",
+    "texto": "Sem fonte identificada e sem confirmação da Rockstar ou da Take-Two. Seriam cerca de US$ 3 bilhões em um dia.",
+    "fonte": "Critical Hits (02/07)"
+   },
+   {
+    "tipo": "barras",
+    "titulo": "O boato × o recorde real",
+    "itens": [
+     {
+      "label": "Boato · GTA 6",
+      "valor": 39,
+      "rotulo": "39 mi",
+      "destaque": true
+     },
+     {
+      "label": "GTA V · 1º dia (Guinness)",
+      "valor": 11.2,
+      "rotulo": "11,2 mi"
+     }
+    ],
+    "texto": "O boato teria 3,5 vezes o recorde de primeiro dia. Por isso, trate como rumor.",
+    "fonte": "Critical Hits · Guinness"
+   }
+  ],
+  "legenda": "[RUMOR] Circulou que GTA 6 teria vendido 39 milhões de cópias em 24 horas, cerca de US$ 3 bi. Não há confirmação da Rockstar nem da Take-Two, e a origem são posts sem fonte. Para comparar: o recorde reconhecido do GTA V no primeiro dia é 11,2 milhões. Fonte: Critical Hits.\n\n#GTA6 #GTAVI #Rumor #Gaming #GTArquive"
+ },
+ {
+  "id": "p5-trailers",
+  "hora": "20:00",
+  "selo": "OFICIAL",
+  "tema": "Trailers",
+  "slides": [
+   {
+    "tipo": "capa",
+    "icone": "play",
+    "gancho": "475 MILHÕES DE VIEWS EM 24 HORAS.",
+    "sub": "O segundo trailer de GTA 6 passou filmes gigantes, segundo a Rockstar.",
+    "fs": 124
+   },
+   {
+    "tipo": "barras",
+    "titulo": "Trailers nas primeiras 24h",
+    "itens": [
+     {
+      "label": "GTA 6 · Trailer 2",
+      "valor": 475,
+      "rotulo": "475 mi",
+      "destaque": true
+     },
+     {
+      "label": "Deadpool & Wolverine",
+      "valor": 365,
+      "rotulo": "365 mi"
+     },
+     {
+      "label": "Homem-Aranha: Sem Volta",
+      "valor": 355.5,
+      "rotulo": "355,5 mi"
+     }
+    ],
+    "texto": "O número do GTA 6 soma todas as plataformas e é divulgado pela própria Rockstar.",
+    "fonte": "Rockstar via TechRadar (maio/2025)"
+   },
+   {
+    "tipo": "dado",
+    "icone": "play",
+    "numero": "93 mi",
+    "fs": 220,
+    "legenda": "Trailer 1 no YouTube, em 24h (dez/2023)",
+    "texto": "Na época, foi a maior estreia de trailer da história do YouTube.",
+    "fonte": "YouTube · GameSpot"
+   }
+  ],
+  "legenda": "[OFICIAL] A Rockstar diz que o Trailer 2 de GTA 6 teve 475 milhões de visualizações em 24 horas somando todas as plataformas, mais que Deadpool & Wolverine (365 mi) e Homem-Aranha: Sem Volta Para Casa (355,5 mi). O Trailer 1 teve 93 milhões só no YouTube em 24h. Fonte: TechRadar e GameSpot.\n\n#GTA6 #GTAVI #Trailer #GTArquive"
+ },
+ {
+  "id": "p6-contagem",
+  "hora": "21:00",
+  "selo": "CONTAGEM",
+  "tema": "Contagem",
+  "slides": [
+   {
+    "tipo": "capa",
+    "icone": "ampulheta",
+    "gancho": "FALTAM 12 DIAS. DEPOIS DE 13 ANOS.",
+    "sub": "Lançamento em 19/11, à 0h no horário de Brasília.",
+    "fs": 124
+   },
+   {
+    "tipo": "dado",
+    "icone": "ampulheta",
+    "numero": "13 anos",
+    "fs": 190,
+    "legenda": "desde o último GTA principal",
+    "texto": "O GTA V saiu em setembro de 2013. De lá para cá, a Rockstar lançou Red Dead Redemption 2, em 2018.",
+    "fonte": "Rockstar Games"
+   },
+   {
+    "tipo": "dado",
+    "icone": "calendario",
+    "numero": "19/11",
+    "fs": 230,
+    "legenda": "0h em Brasília · PS5 e Xbox Series X|S",
+    "texto": "Manaus: 23h de 18/11. Acre: 22h de 18/11.",
+    "fonte": "Rockstar Games"
+   }
+  ],
+  "legenda": "[CONTAGEM] Faltam 12 dias para GTA 6. Lançamento em 19/11/2026, à 0h no horário de Brasília (Manaus 23h de 18/11, Acre 22h de 18/11), para PS5 e Xbox Series X|S. O último GTA principal, o V, saiu em 2013. Fonte: Rockstar Games.\n\n#GTA6 #GTAVI #Contagem #GTArquive"
+ },
+ {
+  "id": "p7-projecao",
+  "hora": "22:00",
+  "selo": "IMPRENSA",
+  "tema": "Projeção",
+  "slides": [
+   {
+    "tipo": "capa",
+    "icone": "grafico",
+    "gancho": "5 BILHÕES EM 7 DIAS? É O QUE SE PROJETA.",
+    "sub": "A Newzoo projeta a receita da primeira semana de GTA 6. Ainda é só projeção.",
+    "fs": 118
+   },
+   {
+    "tipo": "barras",
+    "titulo": "Projeção × recorde atual",
+    "itens": [
+     {
+      "label": "GTA 6 · 1ª semana (projeção)",
+      "valor": 5200,
+      "rotulo": "até US$ 5,2 bi",
+      "destaque": true
+     },
+     {
+      "label": "GTA V · 3 dias (real)",
+      "valor": 1000,
+      "rotulo": "US$ 1 bi"
+     }
+    ],
+    "texto": "A projeção é 5 vezes o que o GTA V fez em 3 dias, mas os períodos são diferentes.",
+    "fonte": "Newzoo via Einerd · Take-Two"
+   },
+   {
+    "tipo": "dado",
+    "icone": "alerta",
+    "numero": "19/11",
+    "fs": 230,
+    "legenda": "é só aí que as vendas reais começam",
+    "texto": "Hoje só existem estimativas de pré-venda. Os números oficiais de lançamento só saem depois do dia 19.",
+    "fonte": "Rockstar Games"
+   }
+  ],
+  "legenda": "[IMPRENSA] A Newzoo projeta até US$ 5,2 bilhões na primeira semana de GTA 6. É projeção, não resultado: nenhuma venda de lançamento aconteceu ainda. Comparação: o GTA V fez US$ 1 bi em 3 dias. Fonte: Einerd (Newzoo) e Take-Two.\n\n#GTA6 #GTAVI #Newzoo #Gaming #GTArquive"
+ },
+ {
+  "id": "p8-preco",
+  "hora": "23:00",
+  "selo": "OFICIAL",
+  "tema": "Preço",
+  "slides": [
+   {
+    "tipo": "capa",
+    "icone": "moedas",
+    "gancho": "R$ 449,90. É ISSO QUE VOCÊ VAI PAGAR.",
+    "sub": "O preço de GTA 6 no Brasil, já nas lojas.",
+    "fs": 124
+   },
+   {
+    "tipo": "barras",
+    "titulo": "Preço no Brasil (PS Store)",
+    "itens": [
+     {
+      "label": "Standard · US$ 79,99",
+      "valor": 449.9,
+      "rotulo": "R$ 449,90"
+     },
+     {
+      "label": "Ultimate · US$ 99,99",
+      "valor": 549.9,
+      "rotulo": "R$ 549,90",
+      "destaque": true
+     }
+    ],
+    "texto": "A Ultimate custa R$ 100 a mais. O boato de US$ 100 na edição básica é falso.",
+    "fonte": "Overdrive · preços conferidos em 15/10"
+   },
+   {
+    "tipo": "dado",
+    "icone": "moedas",
+    "numero": "R$ 100",
+    "fs": 210,
+    "legenda": "é a diferença entre Standard e Ultimate",
+    "texto": "Em dólar, a diferença é de US$ 20 (79,99 para 99,99).",
+    "fonte": "Overdrive"
+   }
+  ],
+  "legenda": "[OFICIAL] Preço de GTA 6 nas lojas (conferido em 15/10): Standard R$ 449,90 (US$ 79,99) e Ultimate R$ 549,90 (US$ 99,99). O rumor de US$ 100 na edição básica é falso. Fonte: Overdrive.\n\n#GTA6 #GTAVI #Preco #PS5 #GTArquive"
+ },
+ {
+  "id": "p9-resumo",
+  "hora": "00:00",
+  "selo": "OFICIAL",
+  "tema": "Resumo",
+  "slides": [
+   {
+    "tipo": "capa",
+    "icone": "calendario",
+    "gancho": "O QUE JÁ É OFICIAL EM GTA 6.",
+    "sub": "Só o que a Rockstar confirmou. Sem rumor.",
+    "fs": 130
+   },
+   {
+    "tipo": "dado",
+    "icone": "calendario",
+    "numero": "19/11",
+    "fs": 230,
+    "legenda": "lançamento à 0h, horário de Brasília",
+    "texto": "Para PS5 (e PS5 Pro) e Xbox Series X|S. Dois protagonistas jogáveis: Jason e Lucia.",
+    "fonte": "Rockstar Newswire"
+   },
+   {
+    "tipo": "dado",
+    "icone": "disco",
+    "numero": "34 faixas",
+    "fs": 170,
+    "legenda": "no álbum original assinado por Justice",
+    "texto": "O álbum sai em 19/11, com 9 singles já divulgados.",
+    "fonte": "Overdrive"
+   }
+  ],
+  "legenda": "[OFICIAL] O que a Rockstar já confirmou sobre GTA 6: lançamento em 19/11/2026 à 0h (Brasília) para PS5 e Xbox Series X|S, dois protagonistas jogáveis (Jason e Lucia), e trilha original assinada por Justice com álbum de 34 faixas na mesma data. Fontes: Rockstar Newswire e Overdrive.\n\n#GTA6 #GTAVI #RockstarGames #GTArquive"
+ }
+]
