@@ -82,7 +82,7 @@ body{margin:0;width:1080px;height:1920px;overflow:hidden;font-family:Archivo,san
 .pill{display:inline-block;background:${cor};color:#1A0B2E;font-size:34px;letter-spacing:.12em;padding:14px 30px;border-radius:8px}
 .handle{position:absolute;left:0;width:1080px;top:1600px;text-align:center;font-size:32px;letter-spacing:.1em;color:#F4EFE4}
 </style>`;
-  const head = `<div class="head">${FOLDER}<div class="wm">GT<b>A</b>rquive</div></div>`;
+  const head = `<div class="head">${FOLDER}<div class="wm">GT<b>A</b>rchive</div></div>`;
   let body;
   if (d.tipo === 'contagem') {
     body = `
@@ -106,7 +106,7 @@ ${head}
   }
   return `<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">${base}</head><body>
 <div class="bg"></div><div class="glow"></div>${PALM}${SKYLINE}${body}
-<div class="handle mono">@gtarquive</div></body></html>`;
+<div class="handle mono">@gtarchive</div></body></html>`;
 }
 
 (async () => {
