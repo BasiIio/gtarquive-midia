@@ -1,0 +1,318 @@
+{
+ "total": 43.8,
+ "O": 1.2,
+ "end": 41.48,
+ "cuts": [
+  {
+   "t": 0.0,
+   "src": 52.35,
+   "speed": 0.69,
+   "mode": "full",
+   "cx": 0.7,
+   "k": ""
+  },
+  {
+   "t": 2.9,
+   "src": 46.6,
+   "mode": "card",
+   "k": "A ÚLTIMA OLHADA",
+   "speed": 1.0
+  },
+  {
+   "t": 4.3,
+   "src": 2.3,
+   "mode": "card",
+   "k": "A ÚLTIMA OLHADA",
+   "speed": 1.0
+  },
+  {
+   "t": 5.8,
+   "src": 2.107,
+   "mode": "card",
+   "k": "A ÚLTIMA OLHADA",
+   "speed": 1.0
+  },
+  {
+   "t": 8.0,
+   "src": 11.3,
+   "mode": "card",
+   "k": "O MUNDO",
+   "speed": 1.0
+  },
+  {
+   "t": 9.3,
+   "src": 54.84,
+   "mode": "card",
+   "k": "O MUNDO",
+   "speed": 1.0
+  },
+  {
+   "t": 10.8,
+   "src": 44.8,
+   "mode": "full",
+   "cx": 0.5,
+   "k": "",
+   "speed": 1.0
+  },
+  {
+   "t": 12.2,
+   "src": 37.393,
+   "mode": "full",
+   "cx": 0.55,
+   "k": "",
+   "speed": 0.838
+  },
+  {
+   "t": 13.25,
+   "src": 27.4,
+   "mode": "card",
+   "k": "LEONIDA",
+   "speed": 1.0
+  },
+  {
+   "t": 14.27,
+   "src": 18.4,
+   "mode": "card",
+   "k": "LEONIDA",
+   "speed": 1.0
+  },
+  {
+   "t": 15.68,
+   "src": 12.273,
+   "mode": "card",
+   "k": "OS PROTAGONISTAS",
+   "speed": 1.0
+  },
+  {
+   "t": 16.88,
+   "src": 25.9,
+   "mode": "card",
+   "k": "OS PROTAGONISTAS",
+   "speed": 1.0
+  },
+  {
+   "t": 18.08,
+   "src": 39.977,
+   "mode": "card",
+   "k": "OS PROTAGONISTAS",
+   "speed": 1.0
+  },
+  {
+   "t": 19.71,
+   "src": 34.54,
+   "mode": "card",
+   "k": "A HISTÓRIA",
+   "speed": 1.0
+  },
+  {
+   "t": 20.91,
+   "src": 29.0,
+   "mode": "full",
+   "cx": 0.72,
+   "k": "",
+   "speed": 1.0
+  },
+  {
+   "t": 22.64,
+   "src": 63.7,
+   "mode": "card",
+   "k": "A AÇÃO",
+   "speed": 1.0
+  },
+  {
+   "t": 23.84,
+   "src": 70.26,
+   "mode": "card",
+   "k": "A AÇÃO",
+   "speed": 0.982
+  },
+  {
+   "t": 24.94,
+   "src": 72.16,
+   "mode": "full",
+   "cx": 0.4,
+   "k": "",
+   "speed": 0.861
+  },
+  {
+   "t": 26.0,
+   "src": 53.0,
+   "mode": "card",
+   "k": "A AÇÃO",
+   "speed": 1.0
+  },
+  {
+   "t": 27.1,
+   "src": 50.0,
+   "mode": "card",
+   "k": "A AÇÃO",
+   "speed": 1.0
+  },
+  {
+   "t": 28.0,
+   "src": 74.2,
+   "mode": "card",
+   "k": "A AÇÃO",
+   "speed": 1.0
+  },
+  {
+   "t": 29.07,
+   "src": 35.88,
+   "mode": "card",
+   "k": "GRAVADO NO PS5",
+   "speed": 0.87
+  },
+  {
+   "t": 30.7,
+   "src": 66.46,
+   "mode": "card",
+   "k": "O LANÇAMENTO",
+   "speed": 0.792
+  },
+  {
+   "t": 32.4,
+   "src": 48.5,
+   "mode": "card",
+   "k": "O LANÇAMENTO",
+   "speed": 1.0
+  },
+  {
+   "t": 33.7,
+   "src": 33.03,
+   "mode": "card",
+   "k": "O LANÇAMENTO",
+   "speed": 0.9
+  },
+  {
+   "t": 35.17,
+   "src": 56.46,
+   "mode": "full",
+   "cx": 0.6,
+   "k": "",
+   "speed": 0.875
+  },
+  {
+   "t": 36.67,
+   "src": 59.5,
+   "mode": "card",
+   "k": "PRÉ-DOWNLOAD",
+   "speed": 1.0
+  },
+  {
+   "t": 38.16,
+   "src": 41.75,
+   "mode": "full",
+   "cx": 0.55,
+   "k": "",
+   "speed": 1.0
+  },
+  {
+   "t": 39.96,
+   "src": 62.56,
+   "mode": "full",
+   "cx": 0.55,
+   "k": "",
+   "speed": 0.5
+  }
+ ],
+ "sent": [
+  {
+   "a": 0.0,
+   "b": 1.5,
+   "chunks": [
+    "FALTAM|*11 DIAS*"
+   ]
+  },
+  {
+   "a": 1.75,
+   "b": 6.8,
+   "chunks": [
+    "A ÚLTIMA OLHADA|*OFICIAL*",
+    "ANTES DE ENTRAR|EM *VICE CITY*"
+   ]
+  },
+  {
+   "a": 6.8,
+   "b": 11.55,
+   "chunks": [
+    "*MARINAS*",
+    "*PRAIAS* LOTADAS",
+    "*NEON* PRA|TODO LADO"
+   ]
+  },
+  {
+   "a": 12.05,
+   "b": 12.86,
+   "chunks": [
+    "ISSO É|*LEONIDA*"
+   ]
+  },
+  {
+   "a": 13.07,
+   "b": 14.06,
+   "chunks": [
+    "E ELA ESTÁ|*VIVA*"
+   ]
+  },
+  {
+   "a": 14.48,
+   "b": 18.21,
+   "chunks": [
+    "*JASON* E *LUCIA*",
+    "DOIS|PROTAGONISTAS",
+    "VOCÊ *ALTERNA*|ENTRE OS DOIS"
+   ]
+  },
+  {
+   "a": 18.51,
+   "b": 21.24,
+   "chunks": [
+    "UM *GOLPE*|DÁ ERRADO",
+    "E VIRA|UMA *FUGA*"
+   ]
+  },
+  {
+   "a": 21.44,
+   "b": 27.46,
+   "chunks": [
+    "*PERSEGUIÇÃO*|COM A *POLÍCIA*",
+    "*TIROTEIO*",
+    "*EXPLOSÃO*",
+    "*MOTO* VOANDO|ENTRE PRÉDIOS",
+    "ATÉ *MERGULHO*"
+   ]
+  },
+  {
+   "a": 27.87,
+   "b": 29.5,
+   "chunks": [
+    "TUDO GRAVADO|NO *PS5*"
+   ]
+  },
+  {
+   "a": 29.83,
+   "b": 33.78,
+   "chunks": [
+    "#*19/11*",
+    "*MEIA-NOITE*",
+    "HORÁRIO DE|*BRASÍLIA*"
+   ]
+  },
+  {
+   "a": 33.97,
+   "b": 36.76,
+   "chunks": [
+    "*PRÉ-DOWNLOAD*|NO PS5",
+    "COMEÇA|DIA *10*"
+   ]
+  },
+  {
+   "a": 36.96,
+   "b": 40.28,
+   "chunks": [
+    "SEGUE O|*GTArchived*",
+    "RUMO AO|*DIA UM*"
+   ]
+  }
+ ]
+}
