@@ -2,13 +2,15 @@
 # uso: montar.sh bruto.mp4 inicio_s duracao_s params.json saida.mp4
 # Cria vertical 1080x1920: cartão de título 2.5s + corte (com selo, crédito e faixa) + slide final "Siga o GTArchived" 2.5s.
 # Opcional 6o arg: voz.mp3 (locução do gancho) toca sobre o cartão de título, que se estende até acabar a voz (máx 6 s).
+# Opcional 7o arg: capa.jpg/png 1080x1920 usada como cartão de abertura no lugar do título gerado (use "" no 6o se sem voz).
 # Aceita fonte horizontal (centraliza sobre fundo desfocado) ou vertical (preenche).
 set -e
-RAW="$1"; SS="$2"; DUR="$3"; PRM="$4"; OUT="$5"; VOZ="$6"
+RAW="$1"; SS="$2"; DUR="$3"; PRM="$4"; OUT="$5"; VOZ="$6"; CAPA="$7"
 TD=2.5
 D=$(mktemp -d); [ -n "$VOZ" ] && VOZ=$(readlink -f "$VOZ") && L=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$VOZ") && TD=$(python3 -c "print(min(6,max(2.5,$L+0.4)))")
 cd "$(dirname "$0")"
 NODE_PATH=$(npm root -g) node overlay.js "$PRM" "$D"
+[ -n "$CAPA" ] && ffmpeg -y -loglevel error -i "$CAPA" -vf scale=1080:1920 "$D/title.png"
 W=$(ffprobe -v error -select_streams v:0 -show_entries stream=width -of csv=p=0 "$RAW"); H=$(ffprobe -v error -select_streams v:0 -show_entries stream=height -of csv=p=0 "$RAW")
 ffmpeg -y -loglevel error -ss "$SS" -i "$RAW" -frames:v 1 "$D/bg.png"
 if [ "$H" -gt "$W" ]; then MAIN="[m1]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1[mx]"; else
