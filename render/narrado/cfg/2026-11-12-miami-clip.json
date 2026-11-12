@@ -1,0 +1,57 @@
+{
+ "voz": "/home/claude/gtarquive-midia/audio/voz/silencio-20s.mp3",
+ "selo": "IMPRENSA",
+ "credito": "Fonte: Kotaku e KeenGamer",
+ "kicker": "FALTAM 7 DIAS",
+ "titulo": "Isso é Miami ou GTA 6?",
+ "tituloPx": 100,
+ "clips": [
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 12
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 30
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 48
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 66
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 82
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Clipe de GTA 6 parece vídeo real de Miami",
+   "t0": 0,
+   "t1": 5
+  },
+  {
+   "texto": "Postado pela @OnlyInDade, perfil de notícias de Miami",
+   "t0": 5,
+   "t1": 10
+  },
+  {
+   "texto": "A Rockstar recompartilhou no Story oficial",
+   "t0": 10,
+   "t1": 14
+  },
+  {
+   "texto": "Confirmando que é gameplay do jogo",
+   "t0": 14,
+   "t1": 18
+  },
+  {
+   "texto": "Faltam 7 dias",
+   "t0": 18,
+   "t1": 99
+  }
+ ]
+}
