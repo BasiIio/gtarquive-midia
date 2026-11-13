@@ -1,0 +1,57 @@
+{
+ "voz": "/home/claude/gtarquive-midia/audio/voz/2026-11-13-firmware.mp3",
+ "selo": "IMPRENSA",
+ "credito": "Fonte: GodisaGeek, Insider Gaming e Wccftech",
+ "kicker": "FALTAM 6 DIAS",
+ "titulo": "PS5 precisa de firmware 14.22?",
+ "tituloPx": 84,
+ "clips": [
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 8
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 28
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 45
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 60
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 75
+  }
+ ],
+ "frases": [
+  {
+   "texto": "O seu PS5 está pronto para GTA 6?",
+   "t0": 0,
+   "t1": 3.4
+  },
+  {
+   "texto": "Imprensa: exige o firmware 14.22",
+   "t0": 3.4,
+   "t1": 8
+  },
+  {
+   "texto": "Atualização de segurança da Sony",
+   "t0": 8,
+   "t1": 13
+  },
+  {
+   "texto": "Rockstar não comentou",
+   "t0": 13,
+   "t1": 16.5
+  },
+  {
+   "texto": "Atualize antes do dia 19",
+   "t0": 16.5,
+   "t1": 99
+  }
+ ]
+}
