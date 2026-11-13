@@ -1,0 +1,62 @@
+{
+ "voz": "/home/claude/gtarquive-midia/audio/voz/2026-11-13-musica-ps5pro.mp3",
+ "selo": "IMPRENSA",
+ "credito": "Fonte: VGC, Insider Gaming e VideoCardz",
+ "kicker": "FALTAM 6 DIAS",
+ "titulo": "O que o PS5 Pro ganha em GTA 6?",
+ "tituloPx": 96,
+ "clips": [
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 14
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 36
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 47
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 61
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 77
+  }
+ ],
+ "frases": [
+  {
+   "texto": "O que o PS5 Pro ganha em GTA 6?",
+   "t0": 0,
+   "t1": 4.5
+  },
+  {
+   "texto": "PSSR, a reconstrução de imagem da Sony",
+   "t0": 4.5,
+   "t1": 9
+  },
+  {
+   "texto": "Sombras com ray tracing exclusivas",
+   "t0": 9,
+   "t1": 13.5
+  },
+  {
+   "texto": "Meta: 30 FPS em todos os consoles",
+   "t0": 13.5,
+   "t1": 18
+  },
+  {
+   "texto": "Sem modo desempenho confirmado",
+   "t0": 18,
+   "t1": 22
+  },
+  {
+   "texto": "Faltam 6 dias",
+   "t0": 22,
+   "t1": 99
+  }
+ ]
+}
