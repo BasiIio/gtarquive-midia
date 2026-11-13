@@ -1,0 +1,62 @@
+{
+ "voz": "/home/claude/gtarquive-midia/audio/voz/2026-11-13-update-1002.mp3",
+ "selo": "IMPRENSA",
+ "credito": "Fonte: ComicBook, Beebom e Flow Games",
+ "kicker": "FALTAM 6 DIAS",
+ "titulo": "GTA 6 já tem atualização?",
+ "tituloPx": 100,
+ "clips": [
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 5
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 22
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 40
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 55
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 70
+  }
+ ],
+ "frases": [
+  {
+   "texto": "GTA 6 já tem atualização?",
+   "t0": 0,
+   "t1": 3.5
+  },
+  {
+   "texto": "Update 1.002.000, cerca de 1 GB",
+   "t0": 3.5,
+   "t1": 9.5
+  },
+  {
+   "texto": "Apareceu no PS5 durante o pré-load",
+   "t0": 9.5,
+   "t1": 13
+  },
+  {
+   "texto": "Só parte dos jogadores recebeu",
+   "t0": 13,
+   "t1": 16.5
+  },
+  {
+   "texto": "Rockstar ainda sem notas",
+   "t0": 16.5,
+   "t1": 19.5
+  },
+  {
+   "texto": "Faltam 6 dias",
+   "t0": 19.5,
+   "t1": 99
+  }
+ ]
+}
