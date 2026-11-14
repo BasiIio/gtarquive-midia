@@ -1,0 +1,62 @@
+{
+ "voz": "/home/claude/gtarquive-midia/audio/voz/2026-11-14-horario-pad.mp3",
+ "selo": "OFICIAL",
+ "credito": "Fonte: PlayStation Store e Rockstar Games",
+ "kicker": "FALTAM 5 DIAS",
+ "titulo": "GTA 6 libera à 0h no Brasil?",
+ "tituloPx": 80,
+ "clips": [
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 8
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 28
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 45
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 60
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 75
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Que horas GTA 6 libera no Brasil?",
+   "t0": 0,
+   "t1": 3.4
+  },
+  {
+   "texto": "À meia-noite de Brasília",
+   "t0": 3.4,
+   "t1": 6.5
+  },
+  {
+   "texto": "Na virada de 18 para 19/11",
+   "t0": 6.5,
+   "t1": 9.5
+  },
+  {
+   "texto": "É o que mostra a PlayStation Store",
+   "t0": 9.5,
+   "t1": 13
+  },
+  {
+   "texto": "Rockstar mantém o dia 19/11",
+   "t0": 13,
+   "t1": 16.5
+  },
+  {
+   "texto": "Faltam 5 dias",
+   "t0": 16.5,
+   "t1": 99
+  }
+ ]
+}
