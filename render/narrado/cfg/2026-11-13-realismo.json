@@ -1,3 +1,57 @@
-{"voz":"/home/claude/gtarquive-midia/audio/voz/2026-11-13-realismo.mp3","selo":"IMPRENSA","credito":"Fonte: Pure Xbox, Push Square, 80.lv (FR3NKD)","kicker":"FALTAM 6 DIAS","titulo":"GTA 6 ou vídeo real?","tituloPx":100,
-"clips":[{"src":"/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer2-oficial-bruto.mp4","ss":12},{"src":"/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer2-oficial-bruto.mp4","ss":72},{"src":"/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer2-oficial-bruto.mp4","ss":114},{"src":"/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer2-oficial-bruto.mp4","ss":138},{"src":"/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer2-oficial-bruto.mp4","ss":146}],
-"frases":[{"texto":"GTA 6 ou vídeo real?","t0":0,"t1":4},{"texto":"Clipe compartilhado pela Rockstar enganou a internet","t0":4,"t1":10},{"texto":"Artista FR3NKD aponta: cabelo, suor, água e grama modelada","t0":10,"t1":18},{"texto":"É divulgação: meta de 30 FPS nos consoles","t0":18,"t1":23},{"texto":"Faltam 6 dias","t0":23,"t1":99}]}
+{
+ "voz": "/home/claude/gtarquive-midia/audio/voz/2026-11-13-realismo.mp3",
+ "selo": "IMPRENSA",
+ "credito": "Fonte: Pure Xbox, Push Square, 80.lv (FR3NKD)",
+ "kicker": "FALTAM 6 DIAS",
+ "titulo": "GTA 6 ou vídeo real?",
+ "tituloPx": 100,
+ "clips": [
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer2-oficial-bruto.mp4",
+   "ss": 12
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer2-oficial-bruto.mp4",
+   "ss":79
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer2-oficial-bruto.mp4",
+   "ss": 114
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer2-oficial-bruto.mp4",
+   "ss": 138
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer2-oficial-bruto.mp4",
+   "ss": 146
+  }
+ ],
+ "frases": [
+  {
+   "texto": "GTA 6 ou vídeo real?",
+   "t0": 0,
+   "t1": 2.3
+  },
+  {
+   "texto": "Clipe compartilhado pela Rockstar enganou a internet",
+   "t0": 2.3,
+   "t1": 9.9
+  },
+  {
+   "texto": "Artista FR3NKD aponta: cabelo, suor, água e grama modelada",
+   "t0": 9.9,
+   "t1": 22.8
+  },
+  {
+   "texto": "É divulgação: meta de 30 FPS nos consoles",
+   "t0": 22.8,
+   "t1": 28.5
+  },
+  {
+   "texto": "Faltam 6 dias",
+   "t0": 28.5,
+   "t1": 99
+  }
+ ]
+}
