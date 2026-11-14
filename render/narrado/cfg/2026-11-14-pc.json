@@ -1,0 +1,57 @@
+{
+ "voz": "/home/claude/gtarquive-midia/audio/voz/2026-11-14-pc-pad.mp3",
+ "selo": "OFICIAL",
+ "credito": "Fonte: Rockstar Games e Xbox Wire",
+ "kicker": "FALTAM 5 DIAS",
+ "titulo": "GTA 6 sai no PC?",
+ "tituloPx": 80,
+ "clips": [
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 10
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 32
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 50
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 66
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 82
+  }
+ ],
+ "frases": [
+  {
+   "texto": "GTA 6 sai no PC?",
+   "t0": 0,
+   "t1": 2.2
+  },
+  {
+   "texto": "No lançamento: PS5 e Xbox Series",
+   "t0": 2.2,
+   "t1": 6
+  },
+  {
+   "texto": "Xbox One: só pela nuvem",
+   "t0": 6,
+   "t1": 9
+  },
+  {
+   "texto": "Versão de PC: não anunciada",
+   "t0": 9,
+   "t1": 12.5
+  },
+  {
+   "texto": "Faltam 5 dias",
+   "t0": 12.5,
+   "t1": 99
+  }
+ ]
+}
