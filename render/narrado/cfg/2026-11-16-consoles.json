@@ -1,0 +1,67 @@
+{
+ "voz": "/home/claude/gtarquive-midia/audio/voz/2026-11-15-musica-empatia.mp3",
+ "selo": "IMPRENSA",
+ "credito": "Fonte: Rockstar Games, Xbox Wire e VGC",
+ "kicker": "FALTAM 3 DIAS",
+ "titulo": "Em qual console jogar GTA 6?",
+ "tituloPx": 84,
+ "clips": [
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 12
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 44
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 62
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 80
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 95
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Em qual console jogar GTA 6?",
+   "t0": 0,
+   "t1": 4
+  },
+  {
+   "texto": "PS5 e PS5 Pro: versão nativa",
+   "t0": 4,
+   "t1": 8.5
+  },
+  {
+   "texto": "Xbox Series X|S: versão nativa",
+   "t0": 8.5,
+   "t1": 13
+  },
+  {
+   "texto": "Xbox One: só via nuvem (cloud)",
+   "t0": 13,
+   "t1": 17.5
+  },
+  {
+   "texto": "Meta nos consoles: 30 FPS",
+   "t0": 17.5,
+   "t1": 21
+  },
+  {
+   "texto": "Lançamento: 0h de 19/11 (Brasília)",
+   "t0": 21,
+   "t1": 24.5
+  },
+  {
+   "texto": "Faltam 3 dias",
+   "t0": 24.5,
+   "t1": 99
+  }
+ ]
+}
