@@ -1,0 +1,62 @@
+{
+ "voz": "/home/claude/gtarquive-midia/audio/voz/2026-11-15-musica-empatia.mp3",
+ "selo": "OFICIAL",
+ "credito": "Fonte: Rockstar Games (via Omelete e GamesRadar)",
+ "kicker": "FALTAM 3 DIAS",
+ "titulo": "GTA 6 pede 212 GB livres?",
+ "tituloPx": 90,
+ "clips": [
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 12
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 44
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 62
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 80
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 95
+  }
+ ],
+ "frases": [
+  {
+   "texto": "GTA 6 pede 212 GB livres?",
+   "t0": 0,
+   "t1": 4
+  },
+  {
+   "texto": "Sim: até 212 GB no PS5 e Xbox Series",
+   "t0": 4,
+   "t1": 9
+  },
+  {
+   "texto": "Segundo a Rockstar, o tamanho pode mudar",
+   "t0": 9,
+   "t1": 13.5
+  },
+  {
+   "texto": "Versão digital: o pré-load já está liberado",
+   "t0": 13.5,
+   "t1": 18.5
+  },
+  {
+   "texto": "Libere espaço antes do dia 19/11",
+   "t0": 18.5,
+   "t1": 22
+  },
+  {
+   "texto": "Faltam 3 dias",
+   "t0": 22,
+   "t1": 99
+  }
+ ]
+}
