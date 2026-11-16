@@ -7,3 +7,9 @@ Hospedagem pública dos vídeos do @gtarquive e renderizador dos Reels.
 - `reels/`: vídeos prontos. O endereço público de cada um é `https://raw.githubusercontent.com/BasiIio/gtarquive-midia/main/reels/<arquivo>.mp4`.
 
 Uso: `NODE_PATH=$(npm root -g) node render/render.js '{"tipo":"noticia","selo":"OFICIAL","tema":"...","manchete":"...","apoio":"...","fonte":"..."}' saida`
+
+## Regra: variedade visual entre posts seguidos
+- Nunca publicar posts seguidos com o mesmo plano/imagem de capa ou o mesmo trecho de vídeo.
+- Antes de montar, conferir a capa e os clipes dos últimos 6 posts no grid (reels/ e capas/) e escolher cena diferente.
+- Capa nunca pode ser quadro escuro/preto: validar o primeiro frame.
+- Se só houver uma fonte de imagem, variar o ponto (ss) do clipe e o enquadramento, ou usar carrossel/card em vez de vídeo.
