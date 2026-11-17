@@ -19,3 +19,7 @@ Uso: `NODE_PATH=$(npm root -g) node render/render.js '{"tipo":"noticia","selo":"
 - Nunca deixar o trailer rolando solto sobre uma fala que cita um objeto específico.
 - Se o quadro do detalhe não foi achado e conferido, o item não entra no vídeo.
 - Conferir na folha de contato: o detalhe está legível e ocupa boa parte da tela quando a voz o cita.
+
+## Voz oficial da narração
+- Desde 17/11/2026 a voz oficial do GTArchived é a ElevenLabs `oSHjab50V5OS5WLcJC5j` (banesVoice), aprovada pelo dono. A voz antiga (Hal, `aLyZxRoKf8CwWlGthFYB`) tinha sotaque ruim e não deve mais ser usada.
+- Usar `model_id=eleven_v4`, `generations_count=1`.
