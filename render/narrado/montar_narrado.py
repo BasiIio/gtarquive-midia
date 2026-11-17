@@ -6,9 +6,12 @@ vd=float(subprocess.check_output(['ffprobe','-v','error','-show_entries','format
 LEAD=0.35; T=round(LEAD+vd+0.6,2); ENDD=2.6; M=round(T-ENDD,2)
 subprocess.run(['node',os.path.join(here,'overlay_narrado.js'),sys.argv[1],D],check=True,env=dict(os.environ,NODE_PATH=subprocess.check_output(['npm','root','-g']).decode().strip()))
 clips=cfg['clips']; n=len(clips); seg=M/n
+if all('d' in c for c in clips):
+    tot=sum(c['d'] for c in clips)
+    for c in clips: c['d']=c['d']*M/tot
 inp=[]; fc=[]; lab=[]; CARDY=640
 for i,c in enumerate(clips):
-    dur=round(seg,3); frames=max(1,round(dur*FPS))
+    dur=round(clips[i].get('d',seg),3); frames=max(1,round(dur*FPS))
     inp+=['-ss',str(c['ss']),'-t',str(dur+0.5),'-i',c['src']]
     if c['src'].lower().endswith(('.jpg','.png')): inp[-5:]=['-loop','1','-t',str(dur+0.5),'-i',c['src']]
     fc.append(f"[{i}:v]fps={FPS},trim=duration={dur},setpts=PTS-STARTPTS,split[a{i}][b{i}]")
