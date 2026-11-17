@@ -1,0 +1,62 @@
+{
+ "voz": "/home/claude/gtarquive-midia/audio/voz/2026-11-17-roubar-carro.mp3",
+ "selo": "IMPRENSA",
+ "credito": "Fonte: GamesRadar / IGN (Rob Nelson, Rockstar North) · Imagens: Rockstar",
+ "kicker": "FALTAM 2 DIAS",
+ "titulo": "Dá pra roubar qualquer carro em GTA 6?",
+ "tituloPx": 84,
+ "clips": [
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 6
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 45
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 8
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 28
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 60
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Dá pra roubar qualquer carro em GTA 6?",
+   "t0": 0,
+   "t1": 3.6
+  },
+  {
+   "texto": "Não: acabou o hotwire automático",
+   "t0": 3.6,
+   "t1": 9
+  },
+  {
+   "texto": "Alguns carros ficam travados no início",
+   "t0": 9,
+   "t1": 14
+  },
+  {
+   "texto": "Precisa de ferramentas: slim jim e key cloner",
+   "t0": 14,
+   "t1": 19
+  },
+  {
+   "texto": "Carjacking continua valendo",
+   "t0": 19,
+   "t1": 22.5
+  },
+  {
+   "texto": "Faltam 2 dias",
+   "t0": 22.5,
+   "t1": 99
+  }
+ ]
+}
