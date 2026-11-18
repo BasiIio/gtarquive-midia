@@ -23,4 +23,5 @@ Só momentos de GTA 6 (a página é de GTA 6). Selo [REAÇÃO] (ou outro que cou
 5. Montar no layout branco (render/branco/LEIA-ME.md): título chamativo fiel à fala, crop no rosto/jogo, legendas, conferir quadros (contact sheet) antes de postar.
 6. Salvar no repo (origem/twitch/<canal>/, reels/), commit + push (sem avisar o dono).
 7. Postar o corte nas 3 redes em sequência (Instagram via vidIQ, YouTube Shorts e TikTok pelo Chrome Browser 1). Um corte nas 3 redes a cada 20 min (pedido do dono). Meta: até 10 cortes por live.
+7b. ADIANTAR (pedido do dono 18/11 00h11): no tempo livre entre um post e outro, deixar os próximos cortes já prontos (baixados, transcritos, montados e conferidos) em render/lives/prontos/ com nota no fila.txt. Manter 2-3 prontos. Na hora do slot de 20 min, só reavaliar (pode ter surgido algo melhor) e postar o melhor pronto.
 8. Cortes de 10 min para YouTube longo: gravar a live no navegador do PC em blocos de 10 min (MediaRecorder, ~4 Mbps) quando houver trecho forte; publicar como vídeo normal no YouTube.
