@@ -1,0 +1,62 @@
+{
+ "voz": "/home/claude/gtarquive-midia/audio/voz/2026-11-15-musica-empatia.mp3",
+ "selo": "IMPRENSA",
+ "credito": "Fonte: TheGamer e Dexerto · Imagens: Rockstar Games",
+ "kicker": "REVIEWS LIBERADAS",
+ "titulo": "GTA 6 e a nota 99",
+ "tituloPx": 100,
+ "clips": [
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 10
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 26
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 42
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 58
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/oficial/videos/GTAVI_Launch_Trailer.mp4",
+   "ss": 72
+  }
+ ],
+ "frases": [
+  {
+   "texto": "GTA 6 tirou nota 99 nas reviews?",
+   "t0": 0,
+   "t1": 3.8
+  },
+  {
+   "texto": "Segundo a imprensa, 99 no Metacritic e no OpenCritic",
+   "t0": 3.8,
+   "t1": 9
+  },
+  {
+   "texto": "IGN e GameSpot: 10/10",
+   "t0": 9,
+   "t1": 13
+  },
+  {
+   "texto": "VGC: 5/5 · New York Times: 9/10",
+   "t0": 13,
+   "t1": 18
+  },
+  {
+   "texto": "Nota provisória, pode mudar",
+   "t0": 18,
+   "t1": 22
+  },
+  {
+   "texto": "Falta 1 dia. Você vai jogar?",
+   "t0": 22,
+   "t1": 99
+  }
+ ]
+}
