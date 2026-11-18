@@ -26,3 +26,8 @@ Só momentos de GTA 6 (a página é de GTA 6). Selo [REAÇÃO] (ou outro que cou
 7. Postar o corte nas 3 redes de uma vez pelo Metricool (já conectado: Instagram gtarquive, TikTok GTArchived, YouTube UCCXNZ489s_4_8EmXrTFQA9g; blogId 7906683; fuso America/Sao_Paulo): mcp__Metricool_Social_Media_Management__createScheduledPost com date = agora + 2 min, autoPublish true, media = [raw GitHub do reel no commit], providers instagram (instagramData.type REEL), tiktok (tiktokData.privacyOption PUBLIC_TO_EVERYONE), youtube (youtubeData type short, title, madeForKids false). tiktokData.title é OBRIGATÓRIO. Testado em 18/11 00h21 como rascunho: o Metricool aceitou o vídeo do GitHub para as 3 redes. Se o Metricool falhar ou bater limite do plano: Instagram via vidIQ e YouTube/TikTok pelo Chrome Browser 1. Um corte nas 3 redes a cada 20 min (pedido do dono). Meta: até 10 cortes por live.
 7b. ADIANTAR (pedido do dono 18/11 00h11): no tempo livre entre um post e outro, deixar os próximos cortes já prontos (baixados, transcritos, montados e conferidos) em render/lives/prontos/ com nota no fila.txt. Manter 2-3 prontos. Na hora do slot de 20 min, só reavaliar (pode ter surgido algo melhor) e postar o melhor pronto.
 8. Cortes de 10 min para YouTube longo: gravar a live no navegador do PC em blocos de 10 min (MediaRecorder, ~4 Mbps) quando houver trecho forte; publicar como vídeo normal no YouTube.
+
+## Regra 18/11 (dono): layout por rede
+- Instagram e TikTok: layout branco (render/branco).
+- YouTube (Shorts): layout cheio com fundo desfocado (render/cheio/montar_cheio.sh), arquivo separado, post separado só com provider youtube.
+- YouTube estourou cota de uploads em 18/11 (reset ~05h BRT). Até lá, nada no YT; longos Alanzoka/Davy pendentes (longos/ no GitHub).
