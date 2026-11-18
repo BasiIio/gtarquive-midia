@@ -1,0 +1,46 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: L,Archivo SemiBold Black,76,&H004DE1FF,&H004DE1FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,6,2,2,70,70,410,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.14,0:00:02.20,L,,0,0,0,,Cara, o dia antes
+Dialogue: 0,0:00:02.20,0:00:03.63,L,,0,0,0,,de Grand Theft Auto
+Dialogue: 0,0:00:03.64,0:00:04.52,L,,0,0,0,,VI, o cara já
+Dialogue: 0,0:00:04.52,0:00:06.63,L,,0,0,0,,ganhou oito nominações
+Dialogue: 0,0:00:08.18,0:00:09.12,L,,0,0,0,,no Game Awards e
+Dialogue: 0,0:00:09.12,0:00:09.88,L,,0,0,0,,ninguém nem jogou o
+Dialogue: 0,0:00:09.88,0:00:10.32,L,,0,0,0,,jogo ainda,
+Dialogue: 0,0:00:10.32,0:00:10.96,L,,0,0,0,,é impressionante,
+Dialogue: 0,0:00:10.96,0:00:11.46,L,,0,0,0,,mano.
+Dialogue: 0,0:00:11.96,0:00:12.73,L,,0,0,0,,Impressionante.
+Dialogue: 0,0:00:17.74,0:00:18.58,L,,0,0,0,,Bizarro, mano.
+Dialogue: 0,0:00:18.58,0:00:19.25,L,,0,0,0,,Bizarro isso.
+Dialogue: 0,0:00:19.68,0:00:20.18,L,,0,0,0,,Bizarro.
+Dialogue: 0,0:00:23.72,0:00:24.02,L,,0,0,0,,É mano,
+Dialogue: 0,0:00:24.02,0:00:24.70,L,,0,0,0,,o Cellbit,
+Dialogue: 0,0:00:24.70,0:00:26.31,L,,0,0,0,,né? O Cellbit está
+Dialogue: 0,0:00:26.48,0:00:27.52,L,,0,0,0,,no Game Awards também,
+Dialogue: 0,0:00:27.52,0:00:28.35,L,,0,0,0,,né mano?
+Dialogue: 0,0:00:29.14,0:00:30.50,L,,0,0,0,,Eu vou votar contra
+Dialogue: 0,0:00:30.50,0:00:31.40,L,,0,0,0,,ele, particularmente,
+Dialogue: 0,0:00:31.40,0:00:32.22,L,,0,0,0,,né? Eu vou votar
+Dialogue: 0,0:00:32.22,0:00:33.06,L,,0,0,0,,no... nem sei quem
+Dialogue: 0,0:00:33.06,0:00:33.34,L,,0,0,0,,que tá,
+Dialogue: 0,0:00:33.34,0:00:34.44,L,,0,0,0,,mano. Vou votar contra
+Dialogue: 0,0:00:34.44,0:00:34.98,L,,0,0,0,,o Cellbit,
+Dialogue: 0,0:00:34.98,0:00:35.48,L,,0,0,0,,mano.
+Dialogue: 0,0:00:36.64,0:00:37.68,L,,0,0,0,,Mentira, vou votar contra
+Dialogue: 0,0:00:37.68,0:00:38.34,L,,0,0,0,,o Cellbit não,
+Dialogue: 0,0:00:38.34,0:00:38.92,L,,0,0,0,,pô. Já dá pra
+Dialogue: 0,0:00:38.92,0:00:39.44,L,,0,0,0,,votar, mano?
+Dialogue: 0,0:00:39.44,0:00:40.12,L,,0,0,0,,Já liberou?
+Dialogue: 0,0:00:40.12,0:00:40.86,L,,0,0,0,,Eu não posso votar
+Dialogue: 0,0:00:40.86,0:00:41.48,L,,0,0,0,,ainda, eu nem joguei
+Dialogue: 0,0:00:41.48,0:00:42.19,L,,0,0,0,,GTA, pô
