@@ -19,7 +19,7 @@ const head=`<div style="position:absolute;inset:0;background:#fff"></div>
 <div style="position:absolute;left:0;right:0;top:${Y0-8}px;height:8px;background:#ff2d95"></div>
 <div style="position:absolute;left:0;right:0;top:${Y0+VH}px;height:8px;background:#ff2d95"></div>
 <div style="position:absolute;left:0;right:0;top:${Y0+VH+30}px;text-align:center;font-weight:600;font-size:34px;color:#555">${esc(P.creditoBaixo||'')}</div>`;
-const pill=`<div style="position:absolute;left:28px;top:${Y0+24}px;background:rgba(0,0,0,.62);border-radius:40px;padding:10px 24px 10px 18px;font-weight:900;font-size:32px;color:#fff;display:flex;align-items:center;gap:12px"><span style="width:16px;height:16px;border-radius:50%;background:#9146ff;display:inline-block"></span>${esc(P.credito)}</div>`;
+const pill=`<div style="position:absolute;left:0;right:0;top:${Y0+VH+100}px;display:flex;justify-content:center"><div style="background:rgba(0,0,0,.78);border-radius:40px;padding:12px 28px 12px 22px;font-weight:900;font-size:36px;color:#fff;display:flex;align-items:center;gap:12px"><span style="width:16px;height:16px;border-radius:50%;background:#9146ff;display:inline-block"></span>${esc(P.credito)}</div></div>`;
 const end=`<div style="position:absolute;inset:0;background:#fff"></div><div style="position:absolute;left:0;right:0;top:600px;text-align:center">
 <img src="file://${LOGO}" style="width:260px;height:260px;border-radius:50%;border:8px solid #ff2d95"><div style="font-weight:900;font-size:120px;line-height:1;margin-top:60px;color:#111">SIGA O</div>
 <div style="font-weight:900;font-size:140px;color:#ff2d95;line-height:1.05">GTArchived</div><div style="font-weight:600;font-size:44px;margin-top:36px;color:#555">tudo de GTA 6, todo dia</div></div>`;
