@@ -26,4 +26,4 @@ const html=`<!doctype html><meta charset=utf-8><style>
 <div class=t3>${P.art} ${P.nome}</div><div class=t4>NO <b>GTA 6</b></div>
 ${P.face?'<div class=face></div>':''}
 <img class=logo src="file://${LOGO}"><div class=cred>${P.cred||''}</div>`;
-(async()=>{const b=await chromium.launch(); const p=await b.newPage({viewport:{width:1280,height:720}}); await p.setContent(html); await p.waitForTimeout(800); await p.evaluate(()=>document.fonts.ready); await p.screenshot({path:OUT}); await b.close(); console.log('ok',OUT)})();
+(async()=>{const b=await chromium.launch(); const p=await b.newPage({viewport:{width:1280,height:720}}); const hf=OUT+'.html'; fs.writeFileSync(hf,html); await p.goto('file://'+hf); await p.waitForTimeout(800); await p.evaluate(()=>document.fonts.ready); await p.screenshot({path:OUT}); await b.close(); console.log('ok',OUT)})();
