@@ -14,17 +14,17 @@ for k in range(1,N):
 F="/usr/share/fonts/opentype/inter/InterDisplay-SemiBold.otf"
 FB="/usr/share/fonts/opentype/inter/InterDisplay-Bold.otf"
 def esc(s): return s.replace(":","\\:").replace("'","\u2019")
-def cap(txt,a,b,y=1700,size=64,font=F,col='white'):
+def cap(txt,a,b,y=1400,size=60,font=F,col='white'):
     return (f"drawtext=fontfile={font}:text='{esc(txt)}':fontsize={size}:fontcolor={col}:x=(w-text_w)/2:y={y}:"
-            f"shadowcolor=black@0.7:shadowx=2:shadowy=3:line_spacing=10:alpha='if(lt(t,{a}),0,if(lt(t,{a+0.25}),(t-{a})/0.25,if(lt(t,{b-0.25}),1,if(lt(t,{b}),({b}-t)/0.25,0))))'")
+            f"shadowcolor=black@0.7:shadowx=2:shadowy=3:line_spacing=12:box=1:boxcolor=black@0.28:boxborderw=22:alpha='if(lt(t,{a}),0,if(lt(t,{a+0.25}),(t-{a})/0.25,if(lt(t,{b-0.25}),1,if(lt(t,{b}),({b}-t)/0.25,0))))'")
 o=0.4
-phr=[("Em 2013, você tinha uns 12 anos.",0,3.2),("Foi quando saiu o último GTA,",3.6,6.0),("e a gente achou que o próximo\nvinha logo.",6.5,8.9),("Não veio.",9.3,10.2),("Vieram 13 anos.",10.5,12.0),("Você terminou a escola,",12.3,13.6),("mudou de cidade, arrumou um emprego,",13.7,16.0),("alguns de nós já têm filhos.",16.3,18.2),("E o tempo todo, uma coisa não mudou.",18.4,21.7),("A gente nunca parou de esperar.",22.1,24.3),("Hoje o jogo existe,",24.8,26.4),("e ele chegou para quem cresceu\nesperando por ele.",26.4,29.0),("Onde você estava em 2013?",29.1,31.4)]
+phr=[("Em 2013, você tinha\nuns 12 anos.",0,3.2),("Foi quando saiu\no último GTA,",3.6,6.0),("e a gente achou que\no próximo vinha logo.",6.5,8.9),("Não veio.",9.3,10.2),("Vieram 13 anos.",10.5,12.0),("Você terminou a escola,",12.3,13.6),("mudou de cidade,\narrumou um emprego,",13.7,16.0),("alguns de nós\njá têm filhos.",16.3,18.2),("E o tempo todo,\numa coisa não mudou.",18.4,21.7),("A gente nunca\nparou de esperar.",22.1,24.3),("Hoje o jogo existe,",24.8,26.4),("e ele chegou para quem\ncresceu esperando por ele.",26.4,29.0),("Onde você estava\nem 2013?",29.1,31.4)]
 filters=[]
 for t,a,b in phr: filters.append(cap(t,a+o,b+o))
-filters.append(cap("2013",0.5,9.4,y=95,size=170,font=FB,col='white@0.92'))
-filters.append(cap("13 ANOS",10.6,17.9,y=95,size=170,font=FB,col='white@0.92'))
-filters.append(cap("2026",24.8,29.6,y=95,size=170,font=FB,col='white@0.92'))
-filters.append(f"drawtext=fontfile={F}:text='Imagens\\: Rockstar Games':fontsize=24:fontcolor=white@0.45:x=(w-text_w)/2:y=1862:enable='lt(t,31.8)'")
+filters.append(cap("2013",0.5,9.4,y=150,size=150,font=FB,col='white@0.92'))
+filters.append(cap("13 ANOS",10.6,17.9,y=150,size=150,font=FB,col='white@0.92'))
+filters.append(cap("2026",24.8,29.6,y=150,size=150,font=FB,col='white@0.92'))
+filters.append(f"drawtext=fontfile={F}:text='Imagens\\: Rockstar Games':fontsize=22:fontcolor=white@0.5:x=(w-text_w)/2:y=1640:enable='lt(t,31.8)'")
 filters.append("drawbox=x=0:y=0:w=1080:h=1920:color=black@0.80:t=fill:enable='between(t,31.8,40)'")
 fc+=f"{prev}"+",".join(filters)+"[v0];"
 fc+=f"[{N}:v]scale=420:420,format=rgba,fade=t=in:st=31.9:d=0.5:alpha=1[lg];[v0][lg]overlay=330:640:enable='gte(t,31.8)'[v1];"
