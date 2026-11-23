@@ -1,0 +1,57 @@
+{
+ "voz": "/home/claude/gtarquive-midia/audio/voz/2026-11-23-dois-protagonistas.mp3",
+ "selo": "OFICIAL",
+ "credito": "Fonte: Rockstar Games via Overdrive · Imagens: Rockstar Games",
+ "kicker": "HISTÓRIA",
+ "titulo": "GTA 6 tem dois protagonistas?",
+ "tituloPx": 70,
+ "clips": [
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-17-launch-oficial-bruto.mp4",
+   "ss": 5,
+   "d": 5
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-17-extlook-oficial-bruto.mp4",
+   "ss": 0,
+   "d": 5
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-17-preload-oficial-bruto.mp4",
+   "ss": 0.5,
+   "d": 5
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer2-oficial-bruto.mp4",
+   "ss": 100,
+   "d": 5
+  }
+ ],
+ "frases": [
+  {
+   "texto": "GTA 6 tem dois protagonistas?",
+   "t0": 0,
+   "t1": 2.8
+  },
+  {
+   "texto": "Tem: Jason Duval e Lucia Caminos",
+   "t0": 2.8,
+   "t1": 6.8
+  },
+  {
+   "texto": "Dá para trocar entre os dois",
+   "t0": 6.8,
+   "t1": 9.2
+  },
+  {
+   "texto": "Lucia começa saindo da prisão",
+   "t0": 9.2,
+   "t1": 12.0
+  },
+  {
+   "texto": "Tudo gira em torno de uma conspiração",
+   "t0": 12.0,
+   "t1": 99
+  }
+ ]
+}
