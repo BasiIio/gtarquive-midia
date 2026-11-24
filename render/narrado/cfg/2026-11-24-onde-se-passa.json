@@ -1,0 +1,77 @@
+{
+ "voz": "/home/claude/gtarquive-midia/audio/voz/2026-11-24-onde-se-passa.mp3",
+ "selo": "IMPRENSA",
+ "credito": "Fonte: Critical Hits e Overdrive · Imagens: Rockstar Games",
+ "kicker": "MUNDO",
+ "titulo": "Onde se passa GTA 6?",
+ "tituloPx": 80,
+ "clips": [
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-17-launch-oficial-bruto.mp4",
+   "ss": 10,
+   "d": 5
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-17-extlook-oficial-bruto.mp4",
+   "ss": 5,
+   "d": 5
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-17-preload-oficial-bruto.mp4",
+   "ss": 2,
+   "d": 5
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer2-oficial-bruto.mp4",
+   "ss": 40,
+   "d": 5
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Onde se passa GTA 6?",
+   "t0": 0,
+   "t1": 2.0
+  },
+  {
+   "texto": "Em Leonida, estado fictício",
+   "t0": 2.0,
+   "t1": 5.3
+  },
+  {
+   "texto": "Regiões confirmadas:",
+   "t0": 5.3,
+   "t1": 7.2
+  },
+  {
+   "texto": "Vice City",
+   "t0": 7.2,
+   "t1": 8.1
+  },
+  {
+   "texto": "Leonida Keys",
+   "t0": 8.1,
+   "t1": 9.3
+  },
+  {
+   "texto": "Port Gellhorn",
+   "t0": 9.3,
+   "t1": 10.4
+  },
+  {
+   "texto": "Ambrosia e Grassrivers",
+   "t0": 10.4,
+   "t1": 12.1
+  },
+  {
+   "texto": "Parque Mount Kalaga",
+   "t0": 12.1,
+   "t1": 14.3
+  },
+  {
+   "texto": "Mapa completo: ainda não saiu",
+   "t0": 14.3,
+   "t1": 99
+  }
+ ]
+}
