@@ -1,0 +1,62 @@
+{
+ "voz": "/home/claude/gtarquive-midia/audio/voz/2026-11-24-sony-recorde.mp3",
+ "selo": "IMPRENSA",
+ "credito": "Fonte: PlayStation Blog, Hardware.com.br e Gamers & Games · Imagens: Rockstar Games",
+ "kicker": "RECORDE",
+ "titulo": "Maior lançamento do PlayStation?",
+ "tituloPx": 68,
+ "clips": [
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-17-launch-oficial-bruto.mp4",
+   "ss": 22,
+   "d": 5
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-17-extlook-oficial-bruto.mp4",
+   "ss": 20,
+   "d": 5
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-17-preload-oficial-bruto.mp4",
+   "ss": 20,
+   "d": 5
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer2-oficial-bruto.mp4",
+   "ss": 61,
+   "d": 5
+  }
+ ],
+ "frases": [
+  {
+   "texto": "GTA 6 foi o maior lançamento do PlayStation?",
+   "t0": 0,
+   "t1": 3.6
+  },
+  {
+   "texto": "Segundo a Sony, sim",
+   "t0": 3.6,
+   "t1": 5.2
+  },
+  {
+   "texto": "+39 milhões de jogadores únicos no PS5",
+   "t0": 5.2,
+   "t1": 9.4
+  },
+  {
+   "texto": "Contagem até 22/11",
+   "t0": 9.4,
+   "t1": 11.3
+  },
+  {
+   "texto": "683 milhões de horas jogadas",
+   "t0": 11.3,
+   "t1": 15.0
+  },
+  {
+   "texto": "Média: 17 h por jogador",
+   "t0": 15.0,
+   "t1": 99
+  }
+ ]
+}
