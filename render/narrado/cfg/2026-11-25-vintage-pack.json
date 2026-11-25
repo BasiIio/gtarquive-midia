@@ -1,0 +1,22 @@
+{
+ "voz": "/home/claude/gtarquive-midia/audio/voz/2026-11-25-vintage-pack.mp3",
+ "selo": "IMPRENSA",
+ "credito": "Fonte: TweakTown, MIXED e Rockstar Games · Imagens: Rockstar Games",
+ "kicker": "PRÉ-VENDA",
+ "titulo": "Bônus da pré-venda custa US$ 4,99",
+ "tituloPx": 64,
+ "clips": [
+  {"src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-17-launch-oficial-bruto.mp4", "ss": 30, "d": 5},
+  {"src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer1-oficial-bruto.mp4", "ss": 40, "d": 5},
+  {"src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-17-extlook-oficial-bruto.mp4", "ss": 35, "d": 5},
+  {"src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer2-oficial-bruto.mp4", "ss": 75, "d": 5}
+ ],
+ "frases": [
+  {"texto": "O bônus de pré-venda de GTA 6 agora é vendido separado?", "t0": 0, "t1": 3.7},
+  {"texto": "Sim", "t0": 3.7, "t1": 4.5},
+  {"texto": "Vintage Vice City Pack: grátis na pré-venda", "t0": 4.5, "t1": 8.0},
+  {"texto": "Agora custa US$ 4,99 nos EUA", "t0": 8.0, "t1": 11.9},
+  {"texto": "Carro, garagem e roupas de Vice City", "t0": 11.9, "t1": 15.5},
+  {"texto": "Quem comprou antes de 20/11 já tem", "t0": 15.5, "t1": 99}
+ ]
+}
