@@ -1,0 +1,72 @@
+{
+ "voz": "/home/claude/gtarquive-midia/audio/voz/2026-11-25-quick-resume-trilha.mp3",
+ "selo": "OFICIAL",
+ "credito": "Fonte: Rockstar Games (rockstargames.com/VI)",
+ "kicker": "PERSONAGENS",
+ "titulo": "Quem são os coadjuvantes de GTA 6?",
+ "tituloPx": 84,
+ "clips": [
+  {
+   "src": "/tmp/claude-0/-home-claude-gtarquive-midia/8c707035-d363-54b1-8afe-ab1c5c62909e/scratchpad/Cal_Hampton.mp4",
+   "ss": 0,
+   "d": 3
+  },
+  {
+   "src": "/tmp/claude-0/-home-claude-gtarquive-midia/8c707035-d363-54b1-8afe-ab1c5c62909e/scratchpad/Brian_Heder.mp4",
+   "ss": 0,
+   "d": 3
+  },
+  {
+   "src": "/tmp/claude-0/-home-claude-gtarquive-midia/8c707035-d363-54b1-8afe-ab1c5c62909e/scratchpad/Boobie_Ike.mp4",
+   "ss": 0,
+   "d": 3
+  },
+  {
+   "src": "/tmp/claude-0/-home-claude-gtarquive-midia/8c707035-d363-54b1-8afe-ab1c5c62909e/scratchpad/DreQuan_Priest.mp4",
+   "ss": 0,
+   "d": 3
+  },
+  {
+   "src": "/tmp/claude-0/-home-claude-gtarquive-midia/8c707035-d363-54b1-8afe-ab1c5c62909e/scratchpad/Real_Dimez.mp4",
+   "ss": 0,
+   "d": 3
+  },
+  {
+   "src": "/tmp/claude-0/-home-claude-gtarquive-midia/8c707035-d363-54b1-8afe-ab1c5c62909e/scratchpad/Raul_Bautista.mp4",
+   "ss": 0,
+   "d": 3
+  }
+ ],
+ "frases": [
+  {
+   "texto": "Cal Hampton: amigo de Jason e associado de Brian",
+   "t0": 0.0,
+   "t1": 3.06
+  },
+  {
+   "texto": "Brian Heder: ex-contrabandista das Keys, dono de estaleiro",
+   "t0": 3.06,
+   "t1": 6.12
+  },
+  {
+   "texto": "Boobie Ike: lenda de Vice City, com boate e estúdio",
+   "t0": 6.12,
+   "t1": 9.18
+  },
+  {
+   "texto": "Dre'Quan Priest: jovem aspirante a magnata da música",
+   "t0": 9.18,
+   "t1": 12.24
+  },
+  {
+   "texto": "Real Dimez: amigas de colégio que viraram dupla de rap",
+   "t0": 12.24,
+   "t1": 15.3
+  },
+  {
+   "texto": "Raul Bautista: assaltante de bancos experiente",
+   "t0": 15.3,
+   "t1": 99
+  }
+ ]
+}
