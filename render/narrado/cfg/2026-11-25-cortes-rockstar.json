@@ -1,0 +1,62 @@
+{
+ "voz": "/home/claude/gtarquive-midia/audio/voz/2026-11-25-quick-resume-trilha.mp3",
+ "selo": "IMPRENSA",
+ "credito": "Fonte: Kotaku, PC Games e TheGamer · Imagens: Rockstar Games",
+ "kicker": "BASTIDORES",
+ "titulo": "O que a Rockstar cortou de GTA 6?",
+ "tituloPx": 78,
+ "clips": [
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-17-launch-oficial-bruto.mp4",
+   "ss": 20,
+   "d": 5
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-17-extlook-oficial-bruto.mp4",
+   "ss": 12,
+   "d": 5
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer2-oficial-bruto.mp4",
+   "ss": 25,
+   "d": 5
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-17-preload-oficial-bruto.mp4",
+   "ss": 8,
+   "d": 5
+  }
+ ],
+ "frases": [
+  {
+   "texto": "O que a Rockstar cortou de GTA 6?",
+   "t0": 0,
+   "t1": 3.4
+  },
+  {
+   "texto": "Não tem replay de missões",
+   "t0": 3.4,
+   "t1": 7
+  },
+  {
+   "texto": "Para não brigar com a história",
+   "t0": 7,
+   "t1": 10.5
+  },
+  {
+   "texto": "Cinemas interativos ficaram de fora",
+   "t0": 10.5,
+   "t1": 14
+  },
+  {
+   "texto": "Tênis, rastejar e criar itens também",
+   "t0": 14,
+   "t1": 17.8
+  },
+  {
+   "texto": "Fontes: Kotaku, PC Games e TheGamer",
+   "t0": 17.8,
+   "t1": 99
+  }
+ ]
+}
