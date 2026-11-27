@@ -1,0 +1,62 @@
+{
+ "voz": "/home/claude/gtarquive-midia/audio/voz/2026-11-25-quick-resume-trilha.mp3",
+ "selo": "IMPRENSA",
+ "credito": "Fonte: Antihype e Overdrive · Imagens: Rockstar Games",
+ "kicker": "BLACK FRIDAY",
+ "titulo": "GTA 6 tem desconto na Black Friday?",
+ "tituloPx": 76,
+ "clips": [
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-17-launch-oficial-bruto.mp4",
+   "ss": 8,
+   "d": 5
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-17-extlook-oficial-bruto.mp4",
+   "ss": 45,
+   "d": 5
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer2-oficial-bruto.mp4",
+   "ss": 40,
+   "d": 5
+  },
+  {
+   "src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-17-preload-oficial-bruto.mp4",
+   "ss": 5,
+   "d": 5
+  }
+ ],
+ "frases": [
+  {
+   "texto": "GTA 6 tem desconto na Black Friday?",
+   "t0": 0,
+   "t1": 3.4
+  },
+  {
+   "texto": "Nas lojas PlayStation e Xbox: não",
+   "t0": 3.4,
+   "t1": 6.6
+  },
+  {
+   "texto": "Standard: R$ 449,90 · Ultimate: R$ 549,90",
+   "t0": 6.6,
+   "t1": 10.6
+  },
+  {
+   "texto": "O desconto está no varejo",
+   "t0": 10.6,
+   "t1": 13.4
+  },
+  {
+   "texto": "Caixa (só código): ~R$ 395 no Pix",
+   "t0": 13.4,
+   "t1": 16.2
+  },
+  {
+   "texto": "Preço de 26/11. Confira antes de comprar",
+   "t0": 16.2,
+   "t1": 99
+  }
+ ]
+}
