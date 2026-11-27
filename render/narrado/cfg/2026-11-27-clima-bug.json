@@ -1,0 +1,22 @@
+{
+ "voz": "/home/claude/gtarquive-midia/audio/voz/2026-11-25-quick-resume-trilha.mp3",
+ "selo": "IMPRENSA",
+ "credito": "Fonte: Game Rant, PC Gamer e PSLS · Imagens: Rockstar Games",
+ "kicker": "BUG RELATADO",
+ "titulo": "O clima de GTA 6 está travado?",
+ "tituloPx": 76,
+ "clips": [
+  {"src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer2-oficial-bruto.mp4", "ss": 36, "d": 5},
+  {"src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer1-oficial-bruto.mp4", "ss": 12, "d": 5},
+  {"src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer1-oficial-bruto.mp4", "ss": 20, "d": 5},
+  {"src": "/home/claude/gtarquive-midia/origem/rockstar/2026-11-13-trailer2-oficial-bruto.mp4", "ss": 80, "d": 5}
+ ],
+ "frases": [
+  {"texto": "O clima de GTA 6 está travado?", "t0": 0, "t1": 3.4},
+  {"texto": "Jogadores dizem que sim, após o patch de 23/11", "t0": 3.4, "t1": 7.4},
+  {"texto": "O patch listava a correção do clima", "t0": 7.4, "t1": 10.6},
+  {"texto": "A Rockstar ainda não comentou", "t0": 10.6, "t1": 13.6},
+  {"texto": "Truque do PS5 (limpar cache): sem comprovação", "t0": 13.6, "t1": 17.2},
+  {"texto": "Sem patch novo anunciado até agora", "t0": 17.2, "t1": 99}
+ ]
+}
